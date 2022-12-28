@@ -1,0 +1,16 @@
+{
+  "wilayah": [
+    {
+      "id": 1,
+      "provinsi": "Jawa Timur",
+      "kota": "Surabaya",
+      "kecamatan": "Tambak Sari"
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kota": "Tuban",
+      "kecamatan": "Tuban",
+      "id": 3
+    }
+  ]
+}
